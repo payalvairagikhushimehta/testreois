@@ -5,6 +5,7 @@ function menu() {
     <div>
       cnbc
       hgfvfhgvh
+      ghfgh
     </div>
   )
 }
